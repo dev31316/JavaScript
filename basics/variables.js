@@ -7,6 +7,6 @@ accountCity = 'Dinajpur';
 accountEmail = 'fake@gmail.com';
 accountPassword = '4654';
 accountCity = 'Rangpur';
+let accountState ;
 
-
-console.table([accountId, accountEmail, accountPassword, accountCity]);
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
