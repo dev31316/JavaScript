@@ -15,3 +15,8 @@ let stringNumber = String(someNumber)
 
 // *************** Operations ****************
 
+let str1 = "hasib"
+let str2 = "raihan"
+// console.log(2+4);
+// console.log(str1 + str2)
+
