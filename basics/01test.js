@@ -1,1 +1,4 @@
-console.log("himel")
+myName = 'gbroad';
+let myName = "haha";
+
+console.log(myName);
