@@ -1,4 +1,4 @@
-let gameName = new String("hasibraihan")
-console.log(gameName);
-console.log(gameName[4])
-console.log(gameName.__proto__)
+let car = new String("hasibraihan");
+let car2 = "afrinjannatmonika";
+let ca3 = "mihrhimah"
+console.log(car.endsWith("n", 66));
